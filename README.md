@@ -1,6 +1,16 @@
-# Welcome to Streamlit!
+# Face_Recognition_System
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
+This is a realtime face recognition system based on OpenCV python.
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+Step 1: Install all required modules and packages.
+
+pickle,
+face_recognition,
+opencv,
+numpy,
+cmake,
+dlib
+
+Step 2: After instaling this add a photo of the persons you want to detect in the train folder.
+
+step 3: Run and enjoy!!
